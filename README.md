@@ -15,3 +15,5 @@ flatpak-builder --user --install --force-clean build-dir flatpak/com.behringer.X
 ```bash
 flatpak run com.behringer.X32Edit
 ```
+
+this version has made usage of generative AI to resolve compatibilty and dependancy issue. We know that it's bad but it's the first app that I'm trying to "flatpaked"
