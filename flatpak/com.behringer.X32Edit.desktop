@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=X32-Edit
+Comment=Control and edit Behringer X32 and M32 consoles
+Exec=x32-edit
+Icon=com.behringer.X32Edit
+Terminal=false
+Categories=AudioVideo;Audio;
+Keywords=behringer;midas;x32;m32;mixer;audio;

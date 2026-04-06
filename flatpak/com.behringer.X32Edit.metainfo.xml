@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>com.behringer.X32Edit</id>
+  <name>X32-Edit</name>
+  <summary>Control and edit Behringer X32 and M32 consoles</summary>
+  <url type="homepage">https://www.behringer.com</url>
+  <description>
+    <p>X32-Edit is a graphical editor and remote controller for Behringer X32 and related digital mixers.</p>
+    <p>This Flatpak package wraps the existing Linux binary and ships the application assets required to launch it inside a sandboxed desktop session.</p>
+  </description>
+  <developer id="com.behringer">
+    <name>Behringer</name>
+  </developer>
+  <launchable type="desktop-id">com.behringer.X32Edit.desktop</launchable>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>LicenseRef-proprietary</project_license>
+  <provides>
+    <binary>x32-edit</binary>
+  </provides>
+  <content_rating type="oars-1.1"/>
+</component>
